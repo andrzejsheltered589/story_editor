@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"对话故事编辑器 - 可视化剧情编辑工具",menu:{"story-editor":"故事编辑器"},open_editor:"打开编辑器"}

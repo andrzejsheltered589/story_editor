@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"Dialogue Story Editor - Visual Story Editing Tool",menu:{"story-editor":"Story Editor"},open_editor:"Open Editor"}
